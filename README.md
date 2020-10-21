@@ -2,7 +2,7 @@
  
 Файлы парсера - в папке pycoder  
 
-Выходной csv-файл - data.csv  
+Выходной csv-файл - task3/pycoder/data.csv  
 
 Вторая часть задания - файл part2.py  
 
